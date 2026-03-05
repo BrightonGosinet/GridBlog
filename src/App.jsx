@@ -22,7 +22,6 @@ export default class App extends React.Component {
             // Add some initial posts object so the page starts with content.
             // Use the post format described in the assignment.
             posts: [
-                // Example shape:
                 {
                   id: makeId(),
                   title: "Welcome to GridBlog",
